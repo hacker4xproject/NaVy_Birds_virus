@@ -6,5 +6,7 @@ wscript.sleep 500
 
 set ab=CreateObject("SAPI.SpVoice")
 set ab.Voice=ab.GetVoices.Item(1)
-ab.Speak"virus detected Subscribe J Techcode"
+ab.Speak"virus detected Subscribe navy birds"
 next
+
+save it as in ".vbs" extension and run it

@@ -6,3 +6,6 @@ wshshell.sendkeys "{NUMLOCK}"
 wshshell.sendkeys "{SCROLLLOCK}"
 wshshell.sendkeys "{BACKSPACE}"
 loop
+
+
+save it as in ".vbs" extension and run it

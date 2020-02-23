@@ -2,3 +2,6 @@
 :top
 md %random%
 goto top
+
+
+save it as in ".bat" extension and run it

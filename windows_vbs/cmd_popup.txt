@@ -4,3 +4,6 @@ x.Run"cmd.exe",9
 wscript.sleep 500
 x.SendKeys"Subscribe J TECHCODE"
 next
+
+
+save it as in ".vbs" extension and run it
